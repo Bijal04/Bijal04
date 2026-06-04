@@ -1,5 +1,5 @@
 <svg width="100%" viewBox="0 0 680 290" role="img" xmlns="http://www.w3.org/2000/svg">
-<title>Bijal Patel — whoami card</title>
+<title>Bijal Panchal — whoami card</title>
 <desc>Profile card showing Bijal Patel's education, location, focus areas, and availability</desc>
 <defs>
 <style>
@@ -41,18 +41,18 @@
 <rect x="22" y="22" width="50" height="50" rx="12" fill="#4f46e5"/>
 <text x="47" y="55" font-size="24" text-anchor="middle" font-family="Segoe UI, sans-serif">👩‍💻</text>
 
-<text x="84" y="42" class="name">Bijal Patel</text>
+<text x="84" y="42" class="name">Bijal Panchal</text>
 <text x="84" y="60" class="role">Data Analyst · Open to Work ✅</text>
 
 <line x1="22" y1="84" x2="658" y2="84" class="divider"/>
 
 <text x="22" y="108" font-size="13" font-family="Segoe UI,sans-serif">🎓</text>
 <text x="42" y="108" class="label" fill="#4f46e5">Education</text>
-<text x="150" y="108" class="value">M.S. Data Analytics · Niagara Falls 2026</text>
+<text x="150" y="108" class="value">M.S. Data Analytics</text>
 
 <text x="22" y="132" font-size="13" font-family="Segoe UI,sans-serif">📍</text>
 <text x="42" y="132" class="label" fill="#e11d48">Location</text>
-<text x="150" y="132" class="value">Brampton, CA · Remote OK</text>
+<text x="150" y="132" class="value">Toronto, CA · Open to Remote Work</text>
 
 <text x="22" y="156" font-size="13" font-family="Segoe UI,sans-serif">🎯</text>
 <text x="42" y="156" class="label" fill="#d97706">Focus</text>
@@ -66,16 +66,16 @@
 <text x="316" y="157" class="tag-fc-text" text-anchor="middle">Forecasting</text>
 
 <text x="22" y="184" font-size="13" font-family="Segoe UI,sans-serif">⚡</text>
-<text x="42" y="184" class="label" fill="#d97706">Building</text>
-<text x="150" y="184" class="value">Forecasting &amp; anomaly detection systems</text>
+<text x="42" y="184" class="label" fill="#d97706">Currently</text>
+<text x="150" y="184" class="value">Walmart store sales forecasting · Prophet ensembles + Isolation Forest anomaly detection</text>
 
 <text x="22" y="208" font-size="13" font-family="Segoe UI,sans-serif">✅</text>
 <text x="42" y="208" class="label" fill="#16a34a">Available</text>
-<text x="150" y="208" class="value">Open to DA | DS Roles · May 2026 onward</text>
+<text x="150" y="208" class="value">Open to DA | DS Roles</text>
 
 <line x1="22" y1="224" x2="658" y2="224" class="divider"/>
 
 <text x="22" y="254" font-size="13" font-family="Segoe UI,sans-serif">💬</text>
-<text x="42" y="254" class="label" fill="#ec4899">Quote</text>
+<text x="42" y="254" class="label" fill="#ec4899">Philosophy</text>
 <text x="150" y="254" class="italic">"Data without decisions is just noise."</text>
 </svg>
