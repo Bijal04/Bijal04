@@ -166,17 +166,18 @@ bijal = {
 
 <br/>
 
-<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal04&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" width="38%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijal04&theme=tokyonight" width="100%" />
 
 <br/>
 
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
-
-<br/>
-
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
-<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bijal04&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bijal04&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijal04&theme=tokyonight&utcOffset=-5" width="32%" />
 
 </div>
 
