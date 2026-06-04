@@ -176,17 +176,17 @@ bijal = {
 
 ---
 
-## 🏔️ Contribution Arcade
+## 👾 Contribution Arcade
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
-  <img alt="3D Contribution Graph" src="profile-3d-contrib/profile-gitblock.svg" />
-</picture>
+[![An image of @bijal04's Holopin badges](https://holopin.me/bijal04)](https://holopin.io/@bijal04)
+
+![Snake animation](https://raw.githubusercontent.com/Bijal04/Bijal04/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+> 🕹️ Each pixel destroyed = one contribution. Keep shipping.
 
 ---
 
