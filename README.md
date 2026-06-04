@@ -162,21 +162,25 @@ bijal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&custom_title=Bijal%27s%20GitHub%20Stats&hide=stars" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=Bijal04&theme=tokyonight-duo&hide_border=true&border_radius=10" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Bijal04&theme=tokyonight-duo&hide_border=true&border_radius=10" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal04&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijal04&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bijal04&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijal04&theme=tokyonight&utcOffset=-5" width="32%" />
 
 </div>
+
+---
 
 ## 👾 Contribution Arcade
 
 <div align="center">
 
 ![Pac-Man](https://raw.githubusercontent.com/Bijal04/Bijal04/output/pacman-dark.svg)
+
+![Space Invaders](https://raw.githubusercontent.com/Bijal04/Bijal04/output/space-invaders-dark.svg)
 
 </div>
 
