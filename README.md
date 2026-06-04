@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=lines=Hey,+I'm+Bijal+👋;Data+Analyst+%26+Analytics+Engineer;From+raw+data+to+real+decisions.+;Open+to+DA+%7C+DS+Roles!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Hey,+I'm+Bijal+👋;Data+Analyst+%26+Analytics+Engineer;From+raw+data+to+real+decisions.+;Open+to+DA+%7C+DS+Roles!)](https://git.io/typing-svg)
 
 <br/>
 
