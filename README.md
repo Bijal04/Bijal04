@@ -14,55 +14,14 @@
 
 ---
 
-## ✨ hey, i'm bijal
+## ✨hey, i'm bijal
 
 <div align="center">
 
-<table border="0" cellspacing="8" cellpadding="4">
-<tr>
+<img src="https://raw.githubusercontent.com/Bijal04/Bijal04/main/whoami_cards.svg" width="800" alt="whoami cards"/>
 
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/✨%20Role-Data%20Analyst%20%26%20ML%20Engineer-E6F1FB?style=for-the-badge&labelColor=E6F1FB&color=E6F1FB"/>
-</td>
-
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/📍%20Location-Brampton%2C%20CA%20·%20Remote%20OK-EEEDFE?style=for-the-badge&labelColor=EEEDFE&color=EEEDFE"/>
-</td>
-
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/🎓%20Education-M.S.%20Analytics%20·%20UNF%202026-E1F5EE?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE"/>
-</td>
-
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/📈%20Focus-Time%20Series%20·%20RFM%20·%20ETL%20·%20BI-FAEEDA?style=for-the-badge&labelColor=FAEEDA&color=FAEEDA"/>
-</td>
-
-</tr>
-<tr>
-
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/⚙️%20Building-Forecasting%20%26%20Anomaly%20Detection-FAECE7?style=for-the-badge&labelColor=FAECE7&color=FAECE7"/>
-</td>
-
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/🛠️%20Stack-Python%20·%20SQL%20·%20Power%20BI%20·%20Tableau-EAF3DE?style=for-the-badge&labelColor=EAF3DE&color=EAF3DE"/>
-</td>
-
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/🗄️%20Specialty-1M%2B%20Records%20·%20ETL%20·%20Star%20Schema-FCEBEB?style=for-the-badge&labelColor=FCEBEB&color=FCEBEB"/>
-</td>
-
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/✅%20Available-Open%20to%20DA%20%7C%20DS%20Roles-EAF3DE?style=for-the-badge&labelColor=EAF3DE&color=EAF3DE"/>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-> 💡 *I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.*
-> *From 1M+ row ETL workflows to Power BI dashboards adopted in production — I close the gap between analysis and action.*
+> 💡 *I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.
+> From 1M+ row ETL workflows to Power BI dashboards adopted in production — I close the gap between analysis and action.*
 
 </div>
 
