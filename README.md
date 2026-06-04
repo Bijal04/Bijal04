@@ -4,31 +4,67 @@
 
 <br/>
 
-[![Views](https://komarev.com/ghpvc/?username=Bijal04&style=flat-square&color=0e75b6&label=profile+views)](https://github.com/Bijal04)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijal-panchal)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
-[![Open to Work](https://img.shields.io/badge/✅%20open%20to-DA%20%7C%20DS%20roles-2ea44f?style=flat-square)](https://linkedin.com/in/bijal-panchal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB.svg?style=for-the-badge&logo=linkedin&logoColor=0C447C&labelColor=E6F1FB&color=E6F1FB)](https://linkedin.com/in/bijal-panchal)
+[![Gmail](https://img.shields.io/badge/Gmail-FCEBEB.svg?style=for-the-badge&logo=gmail&logoColor=791F1F&labelColor=FCEBEB&color=FCEBEB)](mailto:b.panchal04career@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F1EFE8.svg?style=for-the-badge&logo=github&logoColor=444441&labelColor=F1EFE8&color=F1EFE8)](https://bijalpanchal.github.io)
+[![Open to Work](https://img.shields.io/badge/Open%20to-DA%20%7C%20DS%20Roles-EAF3DE.svg?style=for-the-badge&logoColor=27500A&labelColor=EAF3DE&color=EAF3DE)](https://linkedin.com/in/bijal-panchal)
+
 
 </div>
 
 ---
 
-## 🧑‍💻 whoami
+## ✨ hey, i'm bijal
 
-```python
-bijal = {
-    "role"        : "Data Analyst",
-    "education"   : "M.S. Data Analytics - University of Niagara Falls (2026)",
-    "location"    : "Brampton, CA - Open to Remote Work",
-    "available"   : True,
-    "focus"       : ["Time Series Forecasting", "RFM Segmentation", "ETL Pipelines", "BI Dashboards"],
-    "currently"   : "Building production-grade forecasting & anomaly detection systems",
-    "philosophy"  : "Data without decisions is just noise.",
-}
-```
+<div align="center">
 
-> I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.
-> From 1M+ row ETL workflows to Power BI dashboards adopted in production — I close the gap between analysis and action.
+<table border="0" cellspacing="8" cellpadding="4">
+<tr>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/✨%20Role-Data%20Analyst%20%26%20ML%20Engineer-E6F1FB?style=for-the-badge&labelColor=E6F1FB&color=E6F1FB"/>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/📍%20Location-Brampton%2C%20CA%20·%20Remote%20OK-EEEDFE?style=for-the-badge&labelColor=EEEDFE&color=EEEDFE"/>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/🎓%20Education-M.S.%20Analytics%20·%20UNF%202026-E1F5EE?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE"/>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/📈%20Focus-Time%20Series%20·%20RFM%20·%20ETL%20·%20BI-FAEEDA?style=for-the-badge&labelColor=FAEEDA&color=FAEEDA"/>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/⚙️%20Building-Forecasting%20%26%20Anomaly%20Detection-FAECE7?style=for-the-badge&labelColor=FAECE7&color=FAECE7"/>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/🛠️%20Stack-Python%20·%20SQL%20·%20Power%20BI%20·%20Tableau-EAF3DE?style=for-the-badge&labelColor=EAF3DE&color=EAF3DE"/>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/🗄️%20Specialty-1M%2B%20Records%20·%20ETL%20·%20Star%20Schema-FCEBEB?style=for-the-badge&labelColor=FCEBEB&color=FCEBEB"/>
+</td>
+
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/✅%20Available-Open%20to%20DA%20%7C%20DS%20Roles-EAF3DE?style=for-the-badge&labelColor=EAF3DE&color=EAF3DE"/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+> 💡 *I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.*
+> *From 1M+ row ETL workflows to Power BI dashboards adopted in production — I close the gap between analysis and action.*
+
+</div>
 
 ---
 
