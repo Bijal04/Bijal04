@@ -162,19 +162,15 @@ bijal = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&custom_title=Bijal%27s%20GitHub%20Stats&hide=stars)](https://github.com/Bijal04)
+<img src="https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&custom_title=Bijal%27s%20GitHub%20Stats&hide=stars" width="49%" />
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=Bijal04&theme=tokyonight-duo&hide_border=true&border_radius=10" width="49%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bijal04&theme=tokyonight-duo&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal04&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" width="38%" />
 
 </div>
-
----
 
 ## 👾 Contribution Arcade
 
