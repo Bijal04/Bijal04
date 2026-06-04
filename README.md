@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=From+raw+data+to+real+decisions.+%F0%9F%93%8A;Data+Analyst+%26+ML+Engineer;Time+Series+%7C+RFM+%7C+ETL+%7C+BI+Dashboards;Open+to+Data+Analyst+%26+DS+Roles!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=lines=Hey,+I'm+Bijal+👋;Data+Analyst+%26+Analytics+Engineer;From+raw+data+to+real+decisions.+;Open+to+DA+%7C+DS+Roles!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,21 +25,6 @@
 
 > I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.
 > From 1M+ row ETL workflows to Power BI dashboards adopted in production — I close the gap between analysis and action.
-
----
-
-## 💥 Impact At a Glance
-
-| 🎯 Metric | 📊 Result | 🔧 Project |
-|---|---|---|
-| Forecast Accuracy | **93% (MAPE 7.2%)** | Walmart Sales Forecasting |
-| Records Processed | **1M+ transactional records** | Retail Demand Planning |
-| Classification Accuracy | **87% XGBoost** | Customer Segmentation |
-| Data Inconsistencies Reduced | **30%** | Points Africa |
-| Query Performance Improved | **40%** | Star Schema Design |
-| Client Retention Improved | **18%** | DMG Group Analytics |
-| Production Dashboards Shipped | **10+** | Tableau & Power BI |
-| Champion Customers Identified | **843 avg £5,689 spend** | RFM Segmentation |
 
 ---
 
