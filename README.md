@@ -177,11 +177,9 @@ bijal = {
 
 <div align="center">
 
-![Space Invaders](https://raw.githubusercontent.com/Bijal04/Bijal04/output/github-contribution-grid-snake-dark.svg)
+![Pac-Man](https://raw.githubusercontent.com/Bijal04/Bijal04/output/pacman-dark.svg)
 
 </div>
-
-> 🕹️ Each dot eaten = one contribution. Keep shipping.
 
 ## 🔥 Currently Working On
 
