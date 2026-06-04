@@ -1,0 +1,22 @@
+<svg width="100%" viewBox="0 0 680 90" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Bijal Patel tagline</title>
+<desc>I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.</desc>
+<defs>
+<style>
+.bar { fill: #4f46e5; }
+.line1 { font-family: Segoe UI, sans-serif; font-size: 14px; fill: #374151; }
+.line2 { font-family: Segoe UI, sans-serif; font-size: 14px; fill: #374151; }
+@media (prefers-color-scheme: dark) {
+  .bar { fill: #818cf8; }
+  .line1 { fill: #c7d2fe; }
+  .line2 { fill: #c7d2fe; }
+}
+</style>
+</defs>
+
+<rect x="0" y="8" width="4" height="72" rx="2" class="bar"/>
+
+<text x="20" y="32" class="line1">I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.</text>
+<text x="20" y="56" class="line2">From 1M+ row ETL workflows to Power BI dashboards adopted in production —</text>
+<text x="20" y="76" class="line2">I close the gap between analysis and action.</text>
+</svg>
