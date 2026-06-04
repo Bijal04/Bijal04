@@ -5,8 +5,8 @@
 <br/>
 
 [![Views](https://komarev.com/ghpvc/?username=Bijal04&style=flat-square&color=0e75b6&label=profile+views)](https://github.com/Bijal04)
-[![LinkedIn](https://img.shields.io/badge/-bijal--panchal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijal-panchal)
-[![Gmail](https://img.shields.io/badge/-b.panchal04career-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijal-panchal)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
 [![Open to Work](https://img.shields.io/badge/✅%20open%20to-DA%20%7C%20DS%20roles-2ea44f?style=flat-square)](https://linkedin.com/in/bijal-panchal)
 
 </div>
