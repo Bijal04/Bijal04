@@ -162,12 +162,11 @@ bijal = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bijal04&theme=tokyonight-duo&hide_border=true&border_radius=10" width="60%" />
+<img src="https://streak-stats.demolab.com?user=Bijal04&background=000000&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff&hide_border=true&border_radius=10" width="60%" />
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijal04&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bijal04&theme=tokyonight" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijal04&theme=tokyonight&utcOffset=-5" width="32%" />
 
 </div>
@@ -178,13 +177,9 @@ bijal = {
 
 <div align="center">
 
-![Pac-Man](https://raw.githubusercontent.com/Bijal04/Bijal04/output/pacman-dark.svg)
-
-![Space Invaders](https://raw.githubusercontent.com/Bijal04/Bijal04/output/space-invaders-dark.svg)
+![Space Invaders](https://raw.githubusercontent.com/Bijal04/Bijal04/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> 🕹️ Each dot eaten = one contribution. Keep shipping.
 
 ---
 
