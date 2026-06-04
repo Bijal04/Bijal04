@@ -55,19 +55,19 @@ bijal = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,git,github,vscode,jupyter&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,postgres,azure,gcp,aws,docker,linux&perline=8" />
-<br/>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,postgresql,git,github,vscode&perline=8" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,azure,gcp,aws,docker,jupyter,linux&perline=8" />
+<br/><br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-0668E1?style=for-the-badge)
-![SARIMA](https://img.shields.io/badge/SARIMA-8CAAE6?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/🐼%20Pandas-150458?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/🔢%20NumPy-013243?style=for-the-badge&logoColor=white)
+![XGBoost](https://img.shields.io/badge/⚡%20XGBoost-189AB4?style=for-the-badge&logoColor=white)
+![Prophet](https://img.shields.io/badge/📈%20Prophet-0668E1?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/📊%20Power%20BI-F2C811?style=for-the-badge&logoColor=black)
+![Tableau](https://img.shields.io/badge/📋%20Tableau-E97627?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/📗%20Excel-217346?style=for-the-badge&logoColor=white)
+![SARIMA](https://img.shields.io/badge/📉%20SARIMA-8CAAE6?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -105,51 +105,56 @@ bijal = {
 
 ## ⚙️ Tech Stack
 
-**AI / ML / Forecasting**
+<div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBOOST-189AB4?style=flat-square)
-![Prophet](https://img.shields.io/badge/PROPHET-0668E1?style=flat-square)
-![NeuralProphet](https://img.shields.io/badge/NEURALPROPHET-FF6B6B?style=flat-square)
-![SARIMA](https://img.shields.io/badge/SARIMA-8CAAE6?style=flat-square)
-![Holt-Winters](https://img.shields.io/badge/HOLT--WINTERS-6DB33F?style=flat-square)
-![Isolation Forest](https://img.shields.io/badge/ISOLATION%20FOREST-E83E8C?style=flat-square)
-![K-Means](https://img.shields.io/badge/K--MEANS-FD7E14?style=flat-square)
-![PCA](https://img.shields.io/badge/PCA-20C997?style=flat-square)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/STATSMODELS-8CAAE6?style=flat-square)
+**🤖 AI / ML / Forecasting**
 
-**BI & Visualization**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=150458)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=013243)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square&logoColor=white&labelColor=189AB4)
+![Prophet](https://img.shields.io/badge/-Prophet-0668E1?style=flat-square&logoColor=white&labelColor=0668E1)
+![NeuralProphet](https://img.shields.io/badge/-NeuralProphet-FF6B6B?style=flat-square&logoColor=white)
+![SARIMA](https://img.shields.io/badge/-SARIMA-5C6BC0?style=flat-square&logoColor=white)
+![Holt Winters](https://img.shields.io/badge/-Holt%20Winters-6DB33F?style=flat-square&logoColor=white)
+![Isolation Forest](https://img.shields.io/badge/-Isolation%20Forest-E83E8C?style=flat-square&logoColor=white)
+![K Means](https://img.shields.io/badge/-K%20Means-FD7E14?style=flat-square&logoColor=white)
+![PCA](https://img.shields.io/badge/-PCA-20C997?style=flat-square&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=276DC3)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-7B68EE?style=flat-square&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
-![Power Query](https://img.shields.io/badge/POWER%20QUERY-F2C811?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/SEABORN-4C8CBF?style=flat-square)
-![ggplot2](https://img.shields.io/badge/GGPLOT2-276DC3?style=flat-square)
+**📊 BI & Visualization**
 
-**Databases & Warehousing**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=F2C811)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=E97627)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white&labelColor=217346)
+![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square&logoColor=black)
+![Power Query](https://img.shields.io/badge/-Power%20Query-F2C811?style=flat-square&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C8CBF?style=flat-square&logoColor=white)
+![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?style=flat-square&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20PIPELINES-FF6B6B?style=flat-square)
-![Star Schema](https://img.shields.io/badge/STAR%20SCHEMA-6DB33F?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square)
-![OLAP](https://img.shields.io/badge/OLAP-0078D4?style=flat-square)
+**🗄️ Databases & Warehousing**
 
-**Tools**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=4479A1)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791)
+![ETL Pipelines](https://img.shields.io/badge/-ETL%20Pipelines-FF6B6B?style=flat-square&logoColor=white)
+![Star Schema](https://img.shields.io/badge/-Star%20Schema-6DB33F?style=flat-square&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logoColor=white)
+![OLAP](https://img.shields.io/badge/-OLAP-0078D4?style=flat-square&logoColor=white)
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBEAVER-372923?style=flat-square)
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=F37626)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
@@ -157,14 +162,14 @@ bijal = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bijal04&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bijal04&theme=tokyonight-duo&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 <a href="https://github.com/Bijal04">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" />
 </a>
 
 <a href="https://github.com/Bijal04">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal04&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
 </a>
 
 </div>
@@ -180,16 +185,6 @@ bijal = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bijal04/Bijal04/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Bijal04/Bijal04/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Bijal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bijal04&theme=minimal&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=0e75b6)](https://github.com/Bijal04)
 
 </div>
 
