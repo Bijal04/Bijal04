@@ -164,13 +164,19 @@ bijal = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bijal04&theme=tokyonight-duo&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-<a href="https://github.com/Bijal04">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" />
-</a>
+<br/>
 
-<a href="https://github.com/Bijal04">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
-</a>
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+
+<br/>
+
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+
+<br/>
+
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" />
 
 </div>
 
@@ -180,13 +186,11 @@ bijal = {
 
 <div align="center">
 
-[![An image of @bijal04's Holopin badges](https://holopin.me/bijal04)](https://holopin.io/@bijal04)
-
-![Snake animation](https://raw.githubusercontent.com/Bijal04/Bijal04/output/github-contribution-grid-snake-dark.svg)
+![Pac-Man](https://raw.githubusercontent.com/Bijal04/Bijal04/output/pacman-dark.svg)
 
 </div>
 
-> 🕹️ Each pixel destroyed = one contribution. Keep shipping.
+> 🕹️ Each dot eaten = one contribution. Keep shipping.
 
 ---
 
