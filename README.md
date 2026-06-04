@@ -158,26 +158,19 @@ bijal = {
 
 ---
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 
 <div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&custom_title=Bijal%27s%20GitHub%20Stats&hide=stars)](https://github.com/Bijal04)
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bijal04&theme=tokyonight-duo&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bijal04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&rank_icon=github" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal04&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" width="38%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijal04&theme=tokyonight" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bijal04&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bijal04&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijal04&theme=tokyonight&utcOffset=-5" width="32%" />
 
 </div>
 
