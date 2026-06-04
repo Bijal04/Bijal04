@@ -14,17 +14,14 @@
 
 ---
 
-## ✨hey, i'm bijal
+## whoami
 
 <div align="center">
-<div align="center">
 
-![whoami](https://raw.githubusercontent.com/Bija104/Bija104/main/whoami.svg)
+![whoami](https://raw.githubusercontent.com/Bijal04/Bijal04/main/whoami.svg)
+<br>
 
 </div>
-
-<br>
-```
 
 > I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.
 > From 1M+ row ETL workflows to Power BI dashboards adopted in production — I close the gap between analysis and action.
