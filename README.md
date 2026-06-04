@@ -4,15 +4,12 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Bijal04&color=0e75b6&style=flat)](https://github.com/Bijal04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijal-panchal)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://bijalpanchal.github.io)
-![Open To Work](https://img.shields.io/badge/Open%20to-Data%20Analyst%20%7C%20DS%20Roles-28a745?style=flat)
+[![Views](https://komarev.com/ghpvc/?username=Bijal04&style=flat-square&color=0e75b6&label=profile+views)](https://github.com/Bijal04)
+[![LinkedIn](https://img.shields.io/badge/-bijal--panchal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijal-panchal)
+[![Gmail](https://img.shields.io/badge/-b.panchal04career-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
+[![Open to Work](https://img.shields.io/badge/✅%20open%20to-DA%20%7C%20DS%20roles-2ea44f?style=flat-square)](https://linkedin.com/in/bijal-panchal)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 ---
 
@@ -20,11 +17,10 @@
 
 ```python
 bijal = {
-    "role"        : "Data Analyst & ML Engineer",
+    "role"        : "Data Analyst",
     "education"   : "M.S. Data Analytics - University of Niagara Falls (2026)",
-    "location"    : "Brampton, CA - Open to Remote",
+    "location"    : "Brampton, CA - Open to Remote Work",
     "available"   : True,
-    "gpa"         : "3.89/4.0 - Presidents Honour Roll (Spring 2025, Fall 2025, Winter 2026)",
     "focus"       : ["Time Series Forecasting", "RFM Segmentation", "ETL Pipelines", "BI Dashboards"],
     "currently"   : "Building production-grade forecasting & anomaly detection systems",
     "philosophy"  : "Data without decisions is just noise.",
@@ -55,11 +51,6 @@ bijal = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,postgresql,git,github,vscode&perline=8" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,azure,gcp,aws,docker,jupyter,linux&perline=8" />
-<br/><br/>
-
 ![Pandas](https://img.shields.io/badge/🐼%20Pandas-150458?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/🔢%20NumPy-013243?style=for-the-badge&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/⚡%20XGBoost-189AB4?style=for-the-badge&logoColor=white)
@@ -75,31 +66,60 @@ bijal = {
 
 ## 🚀 Best Repositories
 
-### 📦 Walmart Store Sales Forecasting & Anomaly Detection
+<div align="center">
+<table>
+<tr>
 
-**Tech:** `Python` `R` `Prophet` `NeuralProphet` `TensorFlow` `SQL` `Power BI`
-
-| What | Result |
-|---|---|
-| Dataset | 421,570+ weekly records · 45 stores · 99 departments |
-| Forecast Accuracy | **93% (MAPE: 7.2%)** — beat ARIMA by 11% |
-| Anomaly Detection | Isolation Forest flagging **3.2% anomalous events** |
-| Dashboard | Power BI heatmaps & alerts — query time **down 35%** |
-| Features Engineered | 20+ including holiday flags, CPI, fuel price, unemployment |
-
----
+<td width="50%" valign="top">
 
 ### 🛍️ Retail Sales Forecasting & Demand Planning
 
-**Tech:** `Python` `SQL` `Power BI` `Statsmodels` `SQLite` `SQLAlchemy`
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bijal04/retail-sales-forecasting)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-7B68EE?style=flat&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white)
+
+Production-grade demand planning system on **1M+ records** across 43 countries — SARIMA forecasting, RFM segmentation identifying **843 Champions** avg £5,689, and a star schema data warehouse built via ETL.
 
 | What | Result |
 |---|---|
 | Dataset | 1M+ records · 43 countries · 4,735 products |
 | Data Cleaned | 34K duplicates · 19K cancellations · 243K missing IDs |
-| Model | SARIMA — **74.5% accuracy** on 80/20 chronological split |
+| Model | SARIMA — **74.5% accuracy** on 80/20 split |
 | Warehouse | Star schema · 1 fact + 4 dimension tables via ETL |
 | RFM Segments | **843 Champions** avg £5,689 · 409 At-Risk customers |
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📦 Walmart Store Sales Forecasting & Anomaly Detection
+
+![In progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0668E1?style=flat&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+End-to-end sales forecasting & anomaly detection on **421,570+ weekly records** across 45 stores — Prophet ensembles, Isolation Forest flagging **3.2% anomalous events**, and Power BI heatmap dashboards.
+
+| What | Result |
+|---|---|
+| Dataset | 421,570+ weekly records · 45 stores · 99 depts |
+| Forecast Accuracy | **93% (MAPE: 7.2%)** — beat ARIMA by 11% |
+| Anomaly Detection | Isolation Forest · **3.2% anomalous events** |
+| Dashboard | Power BI heatmaps · query time **down 35%** |
+| Features Engineered | 20+ incl. holiday flags, CPI, fuel, unemployment |
+
+</td>
+
+</tr>
+</table>
+</div>
 
 ---
 
@@ -180,6 +200,8 @@ bijal = {
 ![Pac-Man](https://raw.githubusercontent.com/Bijal04/Bijal04/output/pacman-contribution-graph-dark.svg)
 
 </div>
+
+---
 
 ## 🔥 Currently Working On
 
