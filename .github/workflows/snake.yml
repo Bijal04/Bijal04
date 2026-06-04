@@ -12,13 +12,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Space Invaders
-        uses: Anti-Distinctlyminty/github-contribution-grid-space-invaders@main
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: dist/github-contribution-grid-snake-dark.svg
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ff00&color_dots=#1a1a1a,#1f4d1f,#2d7a2d,#3da83d,#52d652
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
