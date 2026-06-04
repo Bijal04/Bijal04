@@ -181,7 +181,7 @@ bijal = {
 
 </div>
 
----
+> 🕹️ Each dot eaten = one contribution. Keep shipping.
 
 ## 🔥 Currently Working On
 
