@@ -1,0 +1,195 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap');
+
+      .card { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; }
+
+      /* Front faces */
+      .front { animation: flipOut 0.6s ease-in-out forwards; }
+      .back  { animation: flipIn  0.6s ease-in-out forwards; opacity: 0; }
+
+      /* Card 1 */
+      .c1 .front { animation-delay: 0.5s; }
+      .c1 .back  { animation-delay: 0.5s; }
+
+      /* Card 2 */
+      .c2 .front { animation-delay: 1.2s; }
+      .c2 .back  { animation-delay: 1.2s; }
+
+      /* Card 3 */
+      .c3 .front { animation-delay: 1.9s; }
+      .c3 .back  { animation-delay: 1.9s; }
+
+      /* Card 4 */
+      .c4 .front { animation-delay: 2.6s; }
+      .c4 .back  { animation-delay: 2.6s; }
+
+      /* Card 5 */
+      .c5 .front { animation-delay: 3.3s; }
+      .c5 .back  { animation-delay: 3.3s; }
+
+      @keyframes flipOut {
+        0%   { transform: rotateY(0deg);    opacity: 1; }
+        49%  { transform: rotateY(90deg);   opacity: 0; }
+        100% { transform: rotateY(90deg);   opacity: 0; }
+      }
+
+      @keyframes flipIn {
+        0%   { transform: rotateY(-90deg);  opacity: 0; }
+        51%  { transform: rotateY(-90deg);  opacity: 0; }
+        100% { transform: rotateY(0deg);    opacity: 1; }
+      }
+
+      .card-shadow {
+        filter: drop-shadow(0 2px 8px rgba(0,0,0,0.10));
+      }
+
+      /* Light mode defaults */
+      .card-bg-blue   { fill: #EBF3FD; }
+      .card-bg-purple { fill: #EEEDFE; }
+      .card-bg-teal   { fill: #E1F5EE; }
+      .card-bg-amber  { fill: #FAEEDA; }
+      .card-bg-green  { fill: #EAF3DE; }
+
+      .card-stroke-blue   { stroke: #B5D4F4; }
+      .card-stroke-purple { stroke: #CECBF6; }
+      .card-stroke-teal   { stroke: #9FE1CB; }
+      .card-stroke-amber  { stroke: #FAC775; }
+      .card-stroke-green  { stroke: #C0DD97; }
+
+      .label-blue   { fill: #185FA5; font-weight: 600; }
+      .label-purple { fill: #534AB7; font-weight: 600; }
+      .label-teal   { fill: #0F6E56; font-weight: 600; }
+      .label-amber  { fill: #854F0B; font-weight: 600; }
+      .label-green  { fill: #3B6D11; font-weight: 600; }
+
+      .sub-blue   { fill: #378ADD; }
+      .sub-purple { fill: #7F77DD; }
+      .sub-teal   { fill: #1D9E75; }
+      .sub-amber  { fill: #BA7517; }
+      .sub-green  { fill: #639922; }
+
+      .icon-text  { font-size: 26px; }
+      .title-text { font-size: 13px; font-weight: 600; font-family: 'Inter', sans-serif; }
+      .sub-text   { font-size: 11px; font-weight: 400; font-family: 'Inter', sans-serif; }
+
+      @media (prefers-color-scheme: dark) {
+        .card-bg-blue   { fill: #0C447C; }
+        .card-bg-purple { fill: #3C3489; }
+        .card-bg-teal   { fill: #085041; }
+        .card-bg-amber  { fill: #633806; }
+        .card-bg-green  { fill: #27500A; }
+
+        .card-stroke-blue   { stroke: #378ADD; }
+        .card-stroke-purple { stroke: #7F77DD; }
+        .card-stroke-teal   { stroke: #1D9E75; }
+        .card-stroke-amber  { stroke: #EF9F27; }
+        .card-stroke-green  { stroke: #97C459; }
+
+        .label-blue   { fill: #B5D4F4; }
+        .label-purple { fill: #CECBF6; }
+        .label-teal   { fill: #9FE1CB; }
+        .label-amber  { fill: #FAC775; }
+        .label-green  { fill: #C0DD97; }
+
+        .sub-blue   { fill: #85B7EB; }
+        .sub-purple { fill: #AFA9EC; }
+        .sub-teal   { fill: #5DCAA5; }
+        .sub-amber  { fill: #EF9F27; }
+        .sub-green  { fill: #97C459; }
+      }
+    </style>
+  </defs>
+
+  <!-- CARD 1: Data Analyst & ML Engineer -->
+  <g class="card c1" style="transform-origin: 84px 100px;">
+    <!-- FRONT -->
+    <g class="front card-shadow" style="transform-origin: 84px 100px;">
+      <rect x="8" y="20" width="152" height="160" rx="14"
+            class="card-bg-blue card-stroke-blue" stroke-width="1.2" fill-opacity="1"/>
+      <text x="84" y="95" text-anchor="middle" class="icon-text">📊</text>
+      <text x="84" y="140" text-anchor="middle" class="title-text label-blue">Role</text>
+    </g>
+    <!-- BACK -->
+    <g class="back card-shadow" style="transform-origin: 84px 100px;">
+      <rect x="8" y="20" width="152" height="160" rx="14"
+            class="card-bg-blue card-stroke-blue" stroke-width="1.2"/>
+      <text x="84" y="88" text-anchor="middle" class="title-text label-blue">Data Analyst</text>
+      <text x="84" y="108" text-anchor="middle" class="sub-text sub-blue">&amp; ML Engineer</text>
+    </g>
+  </g>
+
+  <!-- CARD 2: Location -->
+  <g class="card c2" style="transform-origin: 252px 100px;">
+    <!-- FRONT -->
+    <g class="front card-shadow" style="transform-origin: 252px 100px;">
+      <rect x="176" y="20" width="152" height="160" rx="14"
+            class="card-bg-purple card-stroke-purple" stroke-width="1.2"/>
+      <text x="252" y="95" text-anchor="middle" class="icon-text">📍</text>
+      <text x="252" y="140" text-anchor="middle" class="title-text label-purple">Location</text>
+    </g>
+    <!-- BACK -->
+    <g class="back card-shadow" style="transform-origin: 252px 100px;">
+      <rect x="176" y="20" width="152" height="160" rx="14"
+            class="card-bg-purple card-stroke-purple" stroke-width="1.2"/>
+      <text x="252" y="88" text-anchor="middle" class="title-text label-purple">Brampton, CA</text>
+      <text x="252" y="108" text-anchor="middle" class="sub-text sub-purple">Open to Remote</text>
+    </g>
+  </g>
+
+  <!-- CARD 3: Education -->
+  <g class="card c3" style="transform-origin: 420px 100px;">
+    <!-- FRONT -->
+    <g class="front card-shadow" style="transform-origin: 420px 100px;">
+      <rect x="344" y="20" width="152" height="160" rx="14"
+            class="card-bg-teal card-stroke-teal" stroke-width="1.2"/>
+      <text x="420" y="95" text-anchor="middle" class="icon-text">🎓</text>
+      <text x="420" y="140" text-anchor="middle" class="title-text label-teal">Education</text>
+    </g>
+    <!-- BACK -->
+    <g class="back card-shadow" style="transform-origin: 420px 100px;">
+      <rect x="344" y="20" width="152" height="160" rx="14"
+            class="card-bg-teal card-stroke-teal" stroke-width="1.2"/>
+      <text x="420" y="88" text-anchor="middle" class="title-text label-teal">M.S. Analytics</text>
+      <text x="420" y="108" text-anchor="middle" class="sub-text sub-teal">UNF · 2026</text>
+    </g>
+  </g>
+
+  <!-- CARD 4: Focus -->
+  <g class="card c4" style="transform-origin: 588px 100px;">
+    <!-- FRONT -->
+    <g class="front card-shadow" style="transform-origin: 588px 100px;">
+      <rect x="512" y="20" width="152" height="160" rx="14"
+            class="card-bg-amber card-stroke-amber" stroke-width="1.2"/>
+      <text x="588" y="95" text-anchor="middle" class="icon-text">🎯</text>
+      <text x="588" y="140" text-anchor="middle" class="title-text label-amber">Focus</text>
+    </g>
+    <!-- BACK -->
+    <g class="back card-shadow" style="transform-origin: 588px 100px;">
+      <rect x="512" y="20" width="152" height="160" rx="14"
+            class="card-bg-amber card-stroke-amber" stroke-width="1.2"/>
+      <text x="588" y="83" text-anchor="middle" class="title-text label-amber">DA | DS Roles</text>
+      <text x="588" y="103" text-anchor="middle" class="sub-text sub-amber">Power BI · Python</text>
+      <text x="588" y="120" text-anchor="middle" class="sub-text sub-amber">SQL · ML</text>
+    </g>
+  </g>
+
+  <!-- CARD 5: Status -->
+  <g class="card c5" style="transform-origin: 756px 100px;">
+    <!-- FRONT -->
+    <g class="front card-shadow" style="transform-origin: 756px 100px;">
+      <rect x="680" y="20" width="112" height="160" rx="14"
+            class="card-bg-green card-stroke-green" stroke-width="1.2"/>
+      <text x="736" y="95" text-anchor="middle" class="icon-text">✅</text>
+      <text x="736" y="140" text-anchor="middle" class="title-text label-green">Status</text>
+    </g>
+    <!-- BACK -->
+    <g class="back card-shadow" style="transform-origin: 756px 100px;">
+      <rect x="680" y="20" width="112" height="160" rx="14"
+            class="card-bg-green card-stroke-green" stroke-width="1.2"/>
+      <text x="736" y="88" text-anchor="middle" class="title-text label-green">Available</text>
+      <text x="736" y="108" text-anchor="middle" class="sub-text sub-green">Hire me!</text>
+    </g>
+  </g>
+</svg>
