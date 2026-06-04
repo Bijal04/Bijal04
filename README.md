@@ -4,10 +4,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB.svg?style=for-the-badge&logo=linkedin&logoColor=0C447C&labelColor=E6F1FB&color=E6F1FB)](https://linkedin.com/in/bijal-panchal)
-[![Gmail](https://img.shields.io/badge/Gmail-FCEBEB.svg?style=for-the-badge&logo=gmail&logoColor=791F1F&labelColor=FCEBEB&color=FCEBEB)](mailto:b.panchal04career@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F1EFE8.svg?style=for-the-badge&logo=github&logoColor=444441&labelColor=F1EFE8&color=F1EFE8)](https://bijalpanchal.github.io)
-[![Open to Work](https://img.shields.io/badge/Open%20to-DA%20%7C%20DS%20Roles-EAF3DE.svg?style=for-the-badge&logoColor=27500A&labelColor=EAF3DE&color=EAF3DE)](https://linkedin.com/in/bijal-panchal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijal-panchal)
+[![Gmail](https://img.shields.io/badge/Gmail-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Open to Work](https://img.shields.io/badge/Open%20to-DA%20%7C%20DS%20Roles-16a34a?style=for-the-badge&logoColor=white)](https://linkedin.com/in/bijal-panchal)
 
 
 </div>
@@ -17,14 +17,62 @@
 ## ✨hey, i'm bijal
 
 <div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:700px;">
+<tr>
+<td bgcolor="#eef2ff" style="border-radius:16px; padding:28px 32px; border:2px solid #c7d2fe;">
 
-<img src="https://raw.githubusercontent.com/Bijal04/Bijal04/main/whoami_cards.svg" width="800" alt="whoami cards"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="64" valign="top">
+<img src="https://img.shields.io/badge/👩‍💻--4f46e5?style=for-the-badge&logoColor=white" width="56" height="56" style="border-radius:12px;"/>
+</td>
+<td valign="top" style="padding-left:14px;">
+<strong style="font-size:20px; color:#1a1a2e;">Bijal Patel</strong><br>
+<span style="color:#4f46e5; font-size:14px;">Data Analyst &nbsp;·&nbsp; Open to Work ✅</span>
+</td>
+</tr>
+</table>
 
-> 💡 *I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.
-> From 1M+ row ETL workflows to Power BI dashboards adopted in production — I close the gap between analysis and action.*
+<br>
 
+<table border="0" cellpadding="6" cellspacing="0" width="100%">
+<tr>
+<td width="130"><span style="color:#4f46e5;">🎓 <strong>Education</strong></span></td>
+<td>M.S. Data Analytics · University of Niagara Falls (2026)</td>
+</tr>
+<tr>
+<td><span style="color:#e11d48;">📍 <strong>Location</strong></span></td>
+<td>Brampton, CA · Open to Remote Work</td>
+</tr>
+<tr>
+<td><span style="color:#f59e0b;">🎯 <strong>Focus</strong></span></td>
+<td>
+<code>Time Series Forecasting</code> &nbsp;
+<code>RFM Segmentation</code> &nbsp;
+<code>ETL Pipelines</code> &nbsp;
+<code>BI Dashboards</code>
+</td>
+</tr>
+<tr>
+<td><span style="color:#f59e0b;">⚡ <strong>Currently</strong></span></td>
+<td>Building production-grade forecasting & anomaly detection systems</td>
+</tr>
+<tr>
+<td><span style="color:#16a34a;">✅ <strong>Available</strong></span></td>
+<td>Open to DA | DS Roles</td>
+</tr>
+<tr>
+<td><span style="color:#ec4899;">🌸 <strong>Philosophy</strong></span></td>
+<td><em>"Data without decisions is just noise."</em></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 </div>
 
+<br>
 ---
 
 ## 💥 Impact At a Glance
