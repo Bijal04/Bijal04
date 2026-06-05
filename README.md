@@ -241,16 +241,13 @@ faster queries
 </div>
 
 ---
-
 ## 🔥 Currently Working On
 
-```bash
-$ git log --oneline -4
-->  Walmart Forecasting: extending to department-level Prophet ensembles
-->  Finishing M.S. Capstone: end-to-end demand planning with anomaly alerts
-->  Deepening MLOps: drift detection & auto-retraining pipelines
-->  Open to Data Analyst & Data Science roles - May 2026 onward
-```
+<div align="center">
+
+![currently](https://raw.githubusercontent.com/Bijal04/Bijal04/main/currently.svg)
+
+</div>
 
 ---
 
