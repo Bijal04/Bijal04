@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Hey,+I'm+Bijal+👋;Data+Analyst+%26+Analytics+Engineer;From+raw+data+to+real+decisions.+;Open+to+DA+%7C+DS+Roles!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hey,+I'm+Bijal+👋;Data+Analyst+%26+ETL+Developer;From+raw+data+to+real+decisions.+;Open+to+DA+%7C+DS+Roles!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -8,7 +8,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Open to Work](https://img.shields.io/badge/Open%20to-DA%20%7C%20DS%20Roles-16a34a?style=for-the-badge&logoColor=white)](https://linkedin.com/in/bijal-panchal)
-
 
 </div>
 
@@ -19,7 +18,6 @@
 <div align="center">
 
 ![whoami](https://raw.githubusercontent.com/Bijal04/Bijal04/main/whoami.svg)
-<br>
 
 </div>
 
@@ -32,14 +30,30 @@
 
 <div align="center">
 
-![Pandas](https://img.shields.io/badge/🐼%20Pandas-150458?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/🔢%20NumPy-013243?style=for-the-badge&logoColor=white)
-![XGBoost](https://img.shields.io/badge/⚡%20XGBoost-189AB4?style=for-the-badge&logoColor=white)
-![Prophet](https://img.shields.io/badge/📈%20Prophet-0668E1?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/📊%20Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-![Tableau](https://img.shields.io/badge/📋%20Tableau-E97627?style=for-the-badge&logoColor=white)
-![Excel](https://img.shields.io/badge/📗%20Excel-217346?style=for-the-badge&logoColor=white)
-![SARIMA](https://img.shields.io/badge/📉%20SARIMA-8CAAE6?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0668E1?style=for-the-badge&logoColor=white)
+![SARIMA](https://img.shields.io/badge/SARIMA-5C6BC0?style=for-the-badge&logoColor=white)
+![Isolation Forest](https://img.shields.io/badge/Isolation--Forest-E83E8C?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-FF6B6B?style=for-the-badge&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-6DB33F?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -47,13 +61,42 @@
 
 ## 🚀 Best Repositories
 
-<div align="center">
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🛍️ Retail Sales Forecasting & Demand Planning
+<table width="100%">
+<tr>
+<td colspan="2" style="background:#4f46e5; padding:10px 14px;">
+
+**🛍️ Retail Sales Forecasting & Demand Planning**
+
+*1M+ records · 43 countries · 4,735 products*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**74.5%**
+SARIMA accuracy
+
+**843**
+Champion customers
+
+</td>
+<td width="50%" valign="top">
+
+**£5,689**
+avg spend
+
+**40%**
+faster queries
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 [![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bijal04/retail-sales-forecasting)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -61,46 +104,61 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-7B68EE?style=flat&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white)
-
-Production-grade demand planning system on **1M+ records** across 43 countries — SARIMA forecasting, RFM segmentation identifying **843 Champions** avg £5,689, and a star schema data warehouse built via ETL.
-
-| What | Result |
-|---|---|
-| Dataset | 1M+ records · 43 countries · 4,735 products |
-| Data Cleaned | 34K duplicates · 19K cancellations · 243K missing IDs |
-| Model | SARIMA — **74.5% accuracy** on 80/20 split |
-| Warehouse | Star schema · 1 fact + 4 dimension tables via ETL |
-| RFM Segments | **843 Champions** avg £5,689 · 409 At-Risk customers |
 
 </td>
+</tr>
+</table>
 
+</td>
 <td width="50%" valign="top">
 
-### 📦 Walmart Store Sales Forecasting & Anomaly Detection
+<table width="100%">
+<tr>
+<td colspan="2" style="background:#ea580c; padding:10px 14px;">
 
-![In progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat)
+**📦 Walmart Store Sales Forecasting & Anomaly Detection**
+
+*421,570+ records · 45 stores · 99 depts*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**93%**
+forecast accuracy
+
+**7.2%**
+MAPE
+
+</td>
+<td width="50%" valign="top">
+
+**3.2%**
+anomalies flagged
+
+**35%**
+faster queries
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-0668E1?style=flat&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-End-to-end sales forecasting & anomaly detection on **421,570+ weekly records** across 45 stores — Prophet ensembles, Isolation Forest flagging **3.2% anomalous events**, and Power BI heatmap dashboards.
-
-| What | Result |
-|---|---|
-| Dataset | 421,570+ weekly records · 45 stores · 99 depts |
-| Forecast Accuracy | **93% (MAPE: 7.2%)** — beat ARIMA by 11% |
-| Anomaly Detection | Isolation Forest · **3.2% anomalous events** |
-| Dashboard | Power BI heatmaps · query time **down 35%** |
-| Features Engineered | 20+ incl. holiday flags, CPI, fuel, unemployment |
-
 </td>
-
 </tr>
 </table>
-</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
