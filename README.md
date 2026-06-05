@@ -242,7 +242,7 @@ faster queries
 
 <div align="center">
 
-![Pac-Man](https://raw.githubusercontent.com/Bijal04/Bijal04/output/pacman-contribution-graph-dark.svg)
+![Pac-Man](https://raw.githubusercontent.com/Bijal04/Bijal04/output/pacman-contribution-graph.svg)
 
 </div>
 
