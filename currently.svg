@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 680 170" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>Currently working on</title>
 <defs>
 <style>
@@ -14,31 +14,27 @@
 </style>
 </defs>
 
-<rect x="0" y="0" width="680" height="200" rx="14" class="card-bg"/>
+<rect x="0" y="0" width="680" height="170" rx="14" class="card-bg"/>
 
-<line x1="22" y1="44" x2="658" y2="44" class="divider"/>
+<text x="22" y="36" font-size="13" font-family="Segoe UI,sans-serif">📦</text>
+<text x="42" y="36" class="label" fill="#4f46e5">Forecasting</text>
+<text x="150" y="36" class="value">Walmart dept-level Prophet ensembles + anomaly alerts</text>
 
-<text x="22" y="30" font-family="Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#1a1a2e">🔥 Currently Working On</text>
+<text x="22" y="62" font-size="13" font-family="Segoe UI,sans-serif">🎓</text>
+<text x="42" y="62" class="label" fill="#e11d48">Capstone</text>
+<text x="150" y="62" class="value">End-to-end demand planning with anomaly detection</text>
 
-<text x="22" y="68" font-size="13" font-family="Segoe UI,sans-serif">📦</text>
-<text x="42" y="68" class="label" fill="#4f46e5">Forecasting</text>
-<text x="150" y="68" class="value">Walmart dept-level Prophet ensembles + anomaly alerts</text>
+<text x="22" y="88" font-size="13" font-family="Segoe UI,sans-serif">⚙️</text>
+<text x="42" y="88" class="label" fill="#d97706">MLOps</text>
+<text x="150" y="88" class="value">Drift detection &amp; auto-retraining pipelines</text>
 
-<text x="22" y="94" font-size="13" font-family="Segoe UI,sans-serif">🎓</text>
-<text x="42" y="94" class="label" fill="#e11d48">Capstone</text>
-<text x="150" y="94" class="value">End-to-end demand planning with anomaly detection</text>
+<text x="22" y="114" font-size="13" font-family="Segoe UI,sans-serif">✅</text>
+<text x="42" y="114" class="label" fill="#16a34a">Available</text>
+<text x="150" y="114" class="value">Open to DA | DS Roles · May 2026 onward</text>
 
-<text x="22" y="120" font-size="13" font-family="Segoe UI,sans-serif">⚙️</text>
-<text x="42" y="120" class="label" fill="#d97706">MLOps</text>
-<text x="150" y="120" class="value">Drift detection &amp; auto-retraining pipelines</text>
+<line x1="22" y1="130" x2="658" y2="130" class="divider"/>
 
-<text x="22" y="146" font-size="13" font-family="Segoe UI,sans-serif">✅</text>
-<text x="42" y="146" class="label" fill="#16a34a">Available</text>
-<text x="150" y="146" class="value">Open to DA | DS Roles · May 2026 onward</text>
-
-<line x1="22" y1="162" x2="658" y2="162" class="divider"/>
-
-<text x="22" y="184" font-size="13" font-family="Segoe UI,sans-serif">💬</text>
-<text x="42" y="184" class="label" fill="#ec4899">Quote</text>
-<text x="150" y="184" font-family="Segoe UI,sans-serif" font-size="12" font-style="italic" fill="#6b7280">"Data without decisions is just noise."</text>
+<text x="22" y="152" font-size="13" font-family="Segoe UI,sans-serif">💬</text>
+<text x="42" y="152" class="label" fill="#ec4899">Quote</text>
+<text x="150" y="152" font-family="Segoe UI,sans-serif" font-size="12" font-style="italic" fill="#6b7280">"Data without decisions is just noise."</text>
 </svg>
