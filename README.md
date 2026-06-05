@@ -255,8 +255,9 @@ faster queries
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
-
 <div align="center">
   <img src="./footer.svg" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
+
 </div>
