@@ -227,7 +227,7 @@ faster queries
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bijal04&background=000000&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda&sideLabels=888888&dates=888888&sideNums=FF0000&currStreakNum=FF0000&hide_border=true&border_radius=10" width="60%" />
+<img src="https://streak-stats.demolab.com?user=Bijal04&background=000000&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&dates=888888&sideNums=C084FC&currStreakNum=C084FC&hide_border=true&border_radius=10" width="60%" />
 
 <br/><br/>
 
