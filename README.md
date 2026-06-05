@@ -25,14 +25,16 @@
 
 </div>
 
+<div align="left">
+
 > I turn messy, real-world data into clean pipelines, sharp models, and dashboards that actually get used.
 > From 1M+ row ETL workflows to Power BI dashboards adopted in production — I close the gap between analysis and action.
-
+</div>
 ---
 
-## 🛠️ Languages & Tools I Have Placed My Hands On
-
 <div align="center">
+
+## 🛠️ Languages & Tools I Have Placed My Hands On
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
