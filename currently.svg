@@ -1,0 +1,44 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Currently working on</title>
+<defs>
+<style>
+.card-bg { fill: #eef2ff; stroke: #c7d2fe; stroke-width: 1.5; }
+.label { font-family: Segoe UI, sans-serif; font-size: 12px; font-weight: 700; }
+.value { font-family: Segoe UI, sans-serif; font-size: 12px; fill: #374151; }
+.divider { stroke: #c7d2fe; stroke-width: 1; }
+@media (prefers-color-scheme: dark) {
+  .card-bg { fill: #1e1b4b; stroke: #3730a3; }
+  .value { fill: #c7d2fe; }
+  .divider { stroke: #3730a3; }
+}
+</style>
+</defs>
+
+<rect x="0" y="0" width="680" height="200" rx="14" class="card-bg"/>
+
+<line x1="22" y1="44" x2="658" y2="44" class="divider"/>
+
+<text x="22" y="30" font-family="Segoe UI,sans-serif" font-size="15" font-weight="700" fill="#1a1a2e">🔥 Currently Working On</text>
+
+<text x="22" y="68" font-size="13" font-family="Segoe UI,sans-serif">📦</text>
+<text x="42" y="68" class="label" fill="#4f46e5">Forecasting</text>
+<text x="150" y="68" class="value">Walmart dept-level Prophet ensembles + anomaly alerts</text>
+
+<text x="22" y="94" font-size="13" font-family="Segoe UI,sans-serif">🎓</text>
+<text x="42" y="94" class="label" fill="#e11d48">Capstone</text>
+<text x="150" y="94" class="value">End-to-end demand planning with anomaly detection</text>
+
+<text x="22" y="120" font-size="13" font-family="Segoe UI,sans-serif">⚙️</text>
+<text x="42" y="120" class="label" fill="#d97706">MLOps</text>
+<text x="150" y="120" class="value">Drift detection &amp; auto-retraining pipelines</text>
+
+<text x="22" y="146" font-size="13" font-family="Segoe UI,sans-serif">✅</text>
+<text x="42" y="146" class="label" fill="#16a34a">Available</text>
+<text x="150" y="146" class="value">Open to DA | DS Roles · May 2026 onward</text>
+
+<line x1="22" y1="162" x2="658" y2="162" class="divider"/>
+
+<text x="22" y="184" font-size="13" font-family="Segoe UI,sans-serif">💬</text>
+<text x="42" y="184" class="label" fill="#ec4899">Quote</text>
+<text x="150" y="184" font-family="Segoe UI,sans-serif" font-size="12" font-style="italic" fill="#6b7280">"Data without decisions is just noise."</text>
+</svg>
