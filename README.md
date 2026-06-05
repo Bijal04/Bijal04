@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header" width="100%"/>
+<div align="center">
+
+---
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hey,+I'm+Bijal+👋;Data+Analyst+%26+ETL+Developer;From+raw+data+to+real+decisions.+;Open+to+DA+%7C+DS+Roles!)](https://git.io/typing-svg)
@@ -251,16 +255,8 @@ faster queries
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
 
 <div align="center">
-
-**Let's build something at the edge of data and real decisions.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijal-panchal)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bijal04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://bijalpanchal.github.io)
-
+  <img src="./footer.svg" width="100%"/>
 </div>
-
