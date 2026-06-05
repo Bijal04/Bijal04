@@ -231,8 +231,8 @@ faster queries
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijal04&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijal04&theme=tokyonight&utcOffset=-5" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijal04&theme=tokyonight" width="36%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijal04&theme=tokyonight&utcOffset=-5" width="36%" />
 
 </div>
 
