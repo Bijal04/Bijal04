@@ -110,31 +110,31 @@ faster queries
 
 <table width="100%">
 <tr>
-<td colspan="2" style="background:#ea580c; padding:10px 14px;">
+<td colspan="2" style="background:#0f766e; padding:10px 14px;">
 
-**📦 Walmart Store Sales Forecasting & Anomaly Detection**
+**🌆 Global City Traffic Intelligence Platform**
 
-*421,570+ records · 45 stores · 99 depts*
+*5 cities · 50+ road corridors · Real-time API pipeline*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**93%**
-forecast accuracy
+**15+**
+engineered features
 
-**7.2%**
-MAPE
+**4**
+dimension tables
 
 </td>
 <td width="50%" valign="top">
 
-**3.2%**
-anomalies flagged
-
-**35%**
+**40%**
 faster queries
+
+**<10%**
+MAPE (target)
 
 </td>
 </tr>
@@ -143,9 +143,9 @@ faster queries
 
 ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-0668E1?style=flat&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![TomTom API](https://img.shields.io/badge/TomTom%20API-FF0000?style=flat&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 </td>
@@ -217,7 +217,7 @@ faster queries
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bijal04&background=000000&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&dates=888888&sideNums=C084FC&currStreakNum=C084FC&hide_border=true&border_radius=10" width="60%" />
+<img src="https://streak-stats.demolab.com?user=Bijal04&background=000000&ring=C084FC&fire=C084FC&currStreakLabel=C084PC&sideLabels=C084PC&dates=888888&sideNums=C084FC&currStreakNum=C084FC&hide_border=true&border_radius=10" width="60%" />
 
 <br/><br/>
 
