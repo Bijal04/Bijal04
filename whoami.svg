@@ -67,7 +67,7 @@
 
 <text x="22" y="184" font-size="13" font-family="Segoe UI,sans-serif">⚡</text>
 <text x="42" y="184" class="label" fill="#d97706">Currently</text>
-<text x="150" y="184" class="value">Walmart store sales forecasting · Prophet ensembles + Isolation Forest anomaly detection</text>
+<text x="150" y="184" class="value">Global City Traffic Intelligence Platform · TomTom API pipelines + Prophet time-series forecasting</text>
 
 <text x="22" y="208" font-size="13" font-family="Segoe UI,sans-serif">✅</text>
 <text x="42" y="208" class="label" fill="#16a34a">Available</text>
