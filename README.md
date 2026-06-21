@@ -10,8 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8a5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijal-panchal)
 [![Gmail](https://img.shields.io/badge/Gmail-e85cb8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.panchal04career@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8a5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bijal04.github.io)
-[![Open to Work](https://img.shields.io/badge/Open%20to-DA%20%7C%20DS%20Roles-8a5cf6?style=for-the-badge&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-8a5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+![Open to Work](https://img.shields.io/badge/Open%20to-DA%20%7C%20DS%20Roles-8a5cf6?style=for-the-badge&logoColor=white)
 
 </div>
 
