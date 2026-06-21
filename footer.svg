@@ -1,24 +1,19 @@
 <svg width="100%" viewBox="0 0 680 340" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>Bijal data analyst GitHub profile banner</title>
-<desc>Dark animated banner with red theme, transparent icon buttons at top, analyst desk silhouette below</desc>
+<desc>Dark animated banner with violet theme, transparent icon buttons at top, analyst desk silhouette below</desc>
 
 <defs>
-  <!-- Glowing red pulse on data points -->
-  <animate id="pulse1"/>
-
-  <!-- Monitor screen flicker -->
   <style>
     .glow1 { animation: glow 3s ease-in-out infinite alternate; }
     .glow2 { animation: glow 3s ease-in-out infinite alternate 1s; }
     .float1 { animation: floatUp 4s ease-in-out infinite; }
     .float2 { animation: floatUp 4s ease-in-out infinite 1.5s; }
     .float3 { animation: floatUp 4s ease-in-out infinite 2.8s; }
-    .blink { animation: blink 1.2s step-end infinite; }
-    .chartline { animation: drawline 3s ease forwards; }
-    .scan { animation: scan 4s linear infinite; }
-    .btn-li:hover rect { fill: rgba(10,102,194,0.2); }
-    .btn-gm:hover rect { fill: rgba(234,67,53,0.2); }
-    .btn-pf:hover rect { fill: rgba(37,99,235,0.2); }
+    .blink  { animation: blink 1.2s step-end infinite; }
+    .scan   { animation: scan 4s linear infinite; }
+    .p1 { animation: pulse 2s ease-in-out infinite; }
+    .p2 { animation: pulse 2s ease-in-out infinite 0.7s; }
+    .p3 { animation: pulse 2s ease-in-out infinite 1.4s; }
 
     @keyframes glow {
       0%   { opacity: 0.04; }
@@ -34,28 +29,25 @@
       50%       { opacity: 0; }
     }
     @keyframes scan {
-      0%   { transform: translateY(0px);   opacity: 0.6; }
-      100% { transform: translateY(94px);  opacity: 0;   }
+      0%   { transform: translateY(0px);  opacity: 0.6; }
+      100% { transform: translateY(94px); opacity: 0;   }
     }
     @keyframes pulse {
-      0%, 100% { r: 2;   opacity: 0.6; }
-      50%       { r: 4;   opacity: 1;   }
+      0%, 100% { r: 2; opacity: 0.6; }
+      50%       { r: 4; opacity: 1;   }
     }
-    .p1 { animation: pulse 2s ease-in-out infinite; }
-    .p2 { animation: pulse 2s ease-in-out infinite 0.7s; }
-    .p3 { animation: pulse 2s ease-in-out infinite 1.4s; }
   </style>
 </defs>
 
 <!-- Background -->
-<rect width="680" height="340" fill="#0d0d0d"/>
+<rect width="680" height="340" fill="#060410"/>
 
-<!-- Red ambient glow (animated) -->
-<ellipse cx="200" cy="240" rx="180" ry="100" fill="#8B0000" class="glow1"/>
-<ellipse cx="500" cy="220" rx="150" ry="80"  fill="#CC0000" class="glow2"/>
+<!-- Violet ambient glow (animated) -->
+<ellipse cx="200" cy="240" rx="180" ry="100" fill="#4a2090" class="glow1"/>
+<ellipse cx="500" cy="220" rx="150" ry="80"  fill="#8a5cf6" class="glow2"/>
 
 <!-- Grid -->
-<g stroke="#FF0000" stroke-width="0.3" opacity="0.07">
+<g stroke="#8a5cf6" stroke-width="0.3" opacity="0.07">
   <line x1="0"   y1="80"  x2="680" y2="80"/>
   <line x1="0"   y1="160" x2="680" y2="160"/>
   <line x1="0"   y1="240" x2="680" y2="240"/>
@@ -69,111 +61,110 @@
 </g>
 
 <!-- Floating data particles -->
-<circle cx="80"  cy="180" r="2" fill="#FF4444" class="p1"/>
-<circle cx="560" cy="170" r="2" fill="#FF4444" class="p2"/>
-<circle cx="640" cy="200" r="2" fill="#FF4444" class="p3"/>
-<circle cx="150" cy="260" r="1.5" fill="#FF6666" class="float1" opacity="0.4"/>
-<circle cx="620" cy="250" r="1.5" fill="#FF6666" class="float2" opacity="0.4"/>
-<circle cx="50"  cy="240" r="1.5" fill="#FF6666" class="float3" opacity="0.3"/>
+<circle cx="80"  cy="180" r="2"   fill="#8a5cf6" class="p1"/>
+<circle cx="560" cy="170" r="2"   fill="#c0a8ff" class="p2"/>
+<circle cx="640" cy="200" r="2"   fill="#8a5cf6" class="p3"/>
+<circle cx="150" cy="260" r="1.5" fill="#8a5cf6" class="float1" opacity="0.4"/>
+<circle cx="620" cy="250" r="1.5" fill="#c0a8ff" class="float2" opacity="0.4"/>
+<circle cx="50"  cy="240" r="1.5" fill="#8a5cf6" class="float3" opacity="0.3"/>
 
 <!-- Background chart lines right -->
-<polyline points="420,280 450,240 480,255 510,210 540,225 570,180 600,195 630,160" fill="none" stroke="#FF2222" stroke-width="1.5" opacity="0.2"/>
-<polyline points="420,300 450,290 480,305 510,275 540,295 570,265 600,280 630,250" fill="none" stroke="#FF6666" stroke-width="1" opacity="0.12"/>
+<polyline points="420,280 450,240 480,255 510,210 540,225 570,180 600,195 630,160" fill="none" stroke="#8a5cf6" stroke-width="1.5" opacity="0.2"/>
+<polyline points="420,300 450,290 480,305 510,275 540,295 570,265 600,280 630,250" fill="none" stroke="#c0a8ff" stroke-width="1" opacity="0.12"/>
 
 <!-- Bar chart left faint -->
-<rect x="30" y="270" width="12" height="60" fill="#CC0000" opacity="0.15" rx="2"/>
-<rect x="48" y="250" width="12" height="80" fill="#CC0000" opacity="0.15" rx="2"/>
-<rect x="66" y="280" width="12" height="50" fill="#CC0000" opacity="0.15" rx="2"/>
-<rect x="84" y="240" width="12" height="90" fill="#CC0000" opacity="0.15" rx="2"/>
+<rect x="30" y="270" width="12" height="60" fill="#8a5cf6" opacity="0.15" rx="2"/>
+<rect x="48" y="250" width="12" height="80" fill="#8a5cf6" opacity="0.15" rx="2"/>
+<rect x="66" y="280" width="12" height="50" fill="#8a5cf6" opacity="0.15" rx="2"/>
+<rect x="84" y="240" width="12" height="90" fill="#8a5cf6" opacity="0.15" rx="2"/>
 
-<!-- ── TOP: tagline + icons ── -->
-<text x="340" y="28" text-anchor="middle" font-size="12" fill="#777" font-family="monospace" letter-spacing="1">Let's build something at the edge of data and real decisions.</text>
-<line x1="200" y1="38" x2="480" y2="38" stroke="#FF0000" stroke-width="0.6" opacity="0.35"/>
+<!-- TOP: tagline -->
+<text x="340" y="28" text-anchor="middle" font-size="12" fill="#8a7ac8" font-family="monospace" letter-spacing="1">Let's build something at the edge of data and real decisions.</text>
+<line x1="200" y1="38" x2="480" y2="38" stroke="#8a5cf6" stroke-width="0.6" opacity="0.35"/>
 
-<!-- LinkedIn button (transparent outline) -->
-<g class="btn-li" style="cursor:pointer">
+<!-- LinkedIn button -->
+<g style="cursor:pointer">
   <rect x="220" y="48" width="72" height="26" fill="transparent" stroke="#0A66C2" stroke-width="1" rx="5"/>
   <text x="256" y="65" text-anchor="middle" font-size="10" fill="#0A66C2" font-family="sans-serif" font-weight="bold">LinkedIn</text>
 </g>
 
-<!-- Gmail button (transparent outline) -->
-<g class="btn-gm" style="cursor:pointer">
-  <rect x="302" y="48" width="60" height="26" fill="transparent" stroke="#EA4335" stroke-width="1" rx="5"/>
-  <text x="332" y="65" text-anchor="middle" font-size="10" fill="#EA4335" font-family="sans-serif" font-weight="bold">Gmail</text>
+<!-- Gmail button -->
+<g style="cursor:pointer">
+  <rect x="302" y="48" width="60" height="26" fill="transparent" stroke="#8a7ac8" stroke-width="1" rx="5"/>
+  <text x="332" y="65" text-anchor="middle" font-size="10" fill="#8a7ac8" font-family="sans-serif" font-weight="bold">Gmail</text>
 </g>
 
-<!-- Portfolio button (transparent outline) -->
-<g class="btn-pf" style="cursor:pointer">
-  <rect x="372" y="48" width="76" height="26" fill="transparent" stroke="#2563EB" stroke-width="1" rx="5"/>
-  <text x="410" y="65" text-anchor="middle" font-size="10" fill="#2563EB" font-family="sans-serif" font-weight="bold">Portfolio</text>
+<!-- Portfolio button -->
+<g style="cursor:pointer">
+  <rect x="372" y="48" width="76" height="26" fill="transparent" stroke="#8a5cf6" stroke-width="1" rx="5"/>
+  <text x="410" y="65" text-anchor="middle" font-size="10" fill="#8a5cf6" font-family="sans-serif" font-weight="bold">Portfolio</text>
 </g>
 
-<!-- ── DESK ── -->
-<rect x="90"  y="268" width="340" height="8" fill="#1a1a1a" rx="2"/>
-<rect x="120" y="276" width="10"  height="50" fill="#111"/>
-<rect x="390" y="276" width="10"  height="50" fill="#111"/>
+<!-- DESK -->
+<rect x="90"  y="268" width="340" height="8" fill="#1a1535" rx="2"/>
+<rect x="120" y="276" width="10"  height="50" fill="#110d28"/>
+<rect x="390" y="276" width="10"  height="50" fill="#110d28"/>
 
 <!-- MONITOR 1 (left) -->
-<rect x="128" y="182" width="112" height="86" fill="#111" rx="3"/>
-<rect x="131" y="185" width="106" height="76" fill="#0a0a0a" rx="2"/>
-<rect x="131" y="185" width="106" height="76" fill="#FF0000" class="glow1" rx="2"/>
+<rect x="128" y="182" width="112" height="86" fill="#110d28" rx="3"/>
+<rect x="131" y="185" width="106" height="76" fill="#0c0820" rx="2"/>
+<rect x="131" y="185" width="106" height="76" fill="#8a5cf6" class="glow1" rx="2"/>
 <!-- bar chart on screen -->
-<line x1="138" y1="197" x2="232" y2="197" stroke="#FF3333" stroke-width="1" opacity="0.6"/>
-<line x1="138" y1="207" x2="212" y2="207" stroke="#FF3333" stroke-width="0.7" opacity="0.3"/>
-<rect x="138" y="215" width="15" height="22" fill="#CC0000" opacity="0.6" rx="1"/>
-<rect x="158" y="220" width="15" height="17" fill="#CC0000" opacity="0.5" rx="1"/>
-<rect x="178" y="212" width="15" height="25" fill="#CC0000" opacity="0.7" rx="1"/>
-<rect x="198" y="217" width="15" height="20" fill="#CC0000" opacity="0.4" rx="1"/>
-<rect x="218" y="210" width="8"  height="27" fill="#FF0000" opacity="0.6" rx="1"/>
+<line x1="138" y1="197" x2="232" y2="197" stroke="#8a5cf6" stroke-width="1" opacity="0.6"/>
+<line x1="138" y1="207" x2="212" y2="207" stroke="#8a5cf6" stroke-width="0.7" opacity="0.3"/>
+<rect x="138" y="215" width="15" height="22" fill="#8a5cf6" opacity="0.6" rx="1"/>
+<rect x="158" y="220" width="15" height="17" fill="#8a5cf6" opacity="0.5" rx="1"/>
+<rect x="178" y="212" width="15" height="25" fill="#8a5cf6" opacity="0.7" rx="1"/>
+<rect x="198" y="217" width="15" height="20" fill="#8a5cf6" opacity="0.4" rx="1"/>
+<rect x="218" y="210" width="8"  height="27" fill="#c0a8ff" opacity="0.6" rx="1"/>
 <!-- scan line -->
-<rect x="131" y="185" width="106" height="3" fill="#FF0000" opacity="0.25" rx="1" class="scan"/>
+<rect x="131" y="185" width="106" height="3" fill="#8a5cf6" opacity="0.25" rx="1" class="scan"/>
 <!-- stand -->
-<rect x="177" y="267" width="14" height="4" fill="#1a1a1a" rx="1"/>
-<rect x="168" y="269" width="32" height="3" fill="#111" rx="1"/>
+<rect x="177" y="267" width="14" height="4" fill="#1a1535" rx="1"/>
+<rect x="168" y="269" width="32" height="3" fill="#110d28" rx="1"/>
 
 <!-- MONITOR 2 (main center) -->
-<rect x="254" y="162" width="142" height="106" fill="#111" rx="3"/>
-<rect x="258" y="166" width="134" height="94"  fill="#0a0a0a" rx="2"/>
-<rect x="258" y="166" width="134" height="94"  fill="#FF0000" class="glow2" rx="2"/>
+<rect x="254" y="162" width="142" height="106" fill="#110d28" rx="3"/>
+<rect x="258" y="166" width="134" height="94"  fill="#0c0820" rx="2"/>
+<rect x="258" y="166" width="134" height="94"  fill="#8a5cf6" class="glow2" rx="2"/>
 <!-- line chart on screen -->
-<polyline points="264,240 280,220 296,230 312,202 328,215 344,188 360,200 376,175 388,182" fill="none" stroke="#FF3333" stroke-width="1.5" opacity="0.85"/>
+<polyline points="264,240 280,220 296,230 312,202 328,215 344,188 360,200 376,175 388,182" fill="none" stroke="#8a5cf6" stroke-width="1.5" opacity="0.85"/>
 <!-- scan line on monitor 2 -->
-<rect x="258" y="166" width="134" height="3" fill="#FF0000" opacity="0.2" rx="1" class="scan"/>
+<rect x="258" y="166" width="134" height="3" fill="#8a5cf6" opacity="0.2" rx="1" class="scan"/>
 <!-- code text -->
-<text x="266" y="178" font-size="7" fill="#FF4444" opacity="0.6" font-family="monospace">BIJAL_DA &gt; pipeline.run()</text>
-<text x="266" y="188" font-size="7" fill="#FF2222" opacity="0.4" font-family="monospace">✓ ETL loaded  1,024,318 rows</text>
+<text x="266" y="178" font-size="7" fill="#c0a8ff" opacity="0.6" font-family="monospace">BIJAL_DA &gt; pipeline.run()</text>
+<text x="266" y="188" font-size="7" fill="#8a5cf6" opacity="0.5" font-family="monospace">✓ ETL loaded  1,024,318 rows</text>
 <!-- cursor blink -->
-<rect x="266" y="190" width="5" height="7" fill="#FF4444" opacity="0.7" class="blink"/>
+<rect x="266" y="190" width="5" height="7" fill="#c0a8ff" opacity="0.7" class="blink"/>
 <!-- stand -->
-<rect x="318" y="268" width="14" height="4" fill="#1a1a1a" rx="1"/>
-<rect x="308" y="270" width="34" height="3" fill="#111" rx="1"/>
+<rect x="318" y="268" width="14" height="4" fill="#1a1535" rx="1"/>
+<rect x="308" y="270" width="34" height="3" fill="#110d28" rx="1"/>
 
 <!-- KEYBOARD -->
-<rect x="196" y="272" width="112" height="8" fill="#161616" rx="2"/>
-<rect x="199" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="208" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="217" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="226" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="235" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="244" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="253" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="262" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="271" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="280" y="274" width="6"  height="4" fill="#1f1f1f" rx="0.5"/>
-<rect x="289" y="274" width="14" height="4" fill="#FF2222" opacity="0.3" rx="0.5"/>
+<rect x="196" y="272" width="112" height="8" fill="#0f0b20" rx="2"/>
+<rect x="199" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="208" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="217" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="226" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="235" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="244" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="253" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="262" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="271" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="280" y="274" width="6"  height="4" fill="#1a1535" rx="0.5"/>
+<rect x="289" y="274" width="14" height="4" fill="#8a5cf6" opacity="0.3" rx="0.5"/>
 
 <!-- PERSON SILHOUETTE -->
-<ellipse cx="218" cy="168" rx="16" ry="18" fill="#1a1a1a"/>
-<path d="M190 268 Q190 218 218 213 Q246 218 246 268Z" fill="#1a1a1a"/>
-<path d="M240 238 Q260 252 280 270" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="218" cy="168" rx="16" ry="18" fill="#1a1535"/>
+<path d="M190 268 Q190 218 218 213 Q246 218 246 268Z" fill="#1a1535"/>
+<path d="M240 238 Q260 252 280 270" fill="none" stroke="#1a1535" stroke-width="10" stroke-linecap="round"/>
 
 <!-- COFFEE MUG -->
-<rect x="418" y="254" width="20" height="22" fill="#1a1a1a" rx="2"/>
-<path d="M438 261 Q448 261 448 268 Q448 275 438 275" fill="none" stroke="#1a1a1a" stroke-width="3"/>
-<rect x="420" y="254" width="16" height="5" fill="#8B0000" opacity="0.6" rx="1"/>
-<!-- steam (animated float) -->
-<path d="M422 250 Q424 246 422 242" fill="none" stroke="#FF4444" stroke-width="1" opacity="0.5" class="float1"/>
-<path d="M428 248 Q430 243 428 238" fill="none" stroke="#FF4444" stroke-width="1" opacity="0.5" class="float2"/>
-<path d="M434 250 Q436 245 434 241" fill="none" stroke="#FF4444" stroke-width="1" opacity="0.5" class="float3"/>
-
+<rect x="418" y="254" width="20" height="22" fill="#1a1535" rx="2"/>
+<path d="M438 261 Q448 261 448 268 Q448 275 438 275" fill="none" stroke="#1a1535" stroke-width="3"/>
+<rect x="420" y="254" width="16" height="5" fill="#8a5cf6" opacity="0.5" rx="1"/>
+<!-- steam -->
+<path d="M422 250 Q424 246 422 242" fill="none" stroke="#c0a8ff" stroke-width="1" opacity="0.5" class="float1"/>
+<path d="M428 248 Q430 243 428 238" fill="none" stroke="#c0a8ff" stroke-width="1" opacity="0.5" class="float2"/>
+<path d="M434 250 Q436 245 434 241" fill="none" stroke="#c0a8ff" stroke-width="1" opacity="0.5" class="float3"/>
 </svg>
