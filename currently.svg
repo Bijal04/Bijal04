@@ -1,35 +1,45 @@
 <svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
-<title>Currently working on v3</title>
+<title>Currently working on</title>
 <defs>
+<linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" style="stop-color:#8a5cf6;stop-opacity:0.15"/>
+  <stop offset="100%" style="stop-color:#e85cb8;stop-opacity:0.08"/>
+</linearGradient>
+<linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" style="stop-color:#8a5cf6"/>
+  <stop offset="100%" style="stop-color:#e85cb8"/>
+</linearGradient>
 <style>
-.card-bg { fill: #eef2ff; stroke: #c7d2fe; stroke-width: 1.5; }
-.label { font-family: Segoe UI, sans-serif; font-size: 12px; font-weight: 700; }
-.value { font-family: Segoe UI, sans-serif; font-size: 12px; fill: #374151; }
-.divider { stroke: #c7d2fe; stroke-width: 1; }
-@media (prefers-color-scheme: dark) {
-  .card-bg { fill: #1e1b4b; stroke: #3730a3; }
-  .value { fill: #c7d2fe; }
-  .divider { stroke: #3730a3; }
-}
+.label { font-family: monospace; font-size: 11px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
+.value { font-family: Segoe UI, sans-serif; font-size: 12px; fill: #8a7ac8; }
 </style>
 </defs>
-<rect x="0" y="0" width="680" height="200" rx="14" class="card-bg"/>
-<text x="22" y="36" font-size="13" font-family="Segoe UI,sans-serif">🌆</text>
-<text x="42" y="36" class="label" fill="#4f46e5">Forecasting</text>
-<text x="150" y="36" class="value">Global City Traffic Intelligence · TomTom API pipelines + Prophet time-series forecasting</text>
-<text x="22" y="62" font-size="13" font-family="Segoe UI,sans-serif">🎓</text>
-<text x="42" y="62" class="label" fill="#e11d48">Capstone</text>
+
+<rect x="0" y="0" width="680" height="200" rx="14" fill="#0c0820" stroke="rgba(192,168,255,0.12)" stroke-width="1.5"/>
+<rect x="0" y="0" width="680" height="200" rx="14" fill="url(#cardGrad)"/>
+<rect x="0" y="0" width="680" height="2" rx="1" fill="url(#lineGrad)" opacity="0.8"/>
+
+<text x="22" y="36"  font-size="13" font-family="Segoe UI,sans-serif">🌆</text>
+<text x="42" y="36"  class="label" fill="#8a5cf6">Forecasting</text>
+<text x="150" y="36" class="value">City Stress Index · TomTom API pipelines + Prophet time-series forecasting</text>
+
+<text x="22" y="62"  font-size="13" font-family="Segoe UI,sans-serif">🎓</text>
+<text x="42" y="62"  class="label" fill="#e85cb8">Capstone</text>
 <text x="150" y="62" class="value">City Stress Index · congestion severity + affordability + urban liveability scoring</text>
-<text x="22" y="88" font-size="13" font-family="Segoe UI,sans-serif">⚙️</text>
-<text x="42" y="88" class="label" fill="#d97706">MLOps</text>
+
+<text x="22" y="88"  font-size="13" font-family="Segoe UI,sans-serif">⚙️</text>
+<text x="42" y="88"  class="label" fill="#c0a8ff">MLOps</text>
 <text x="150" y="88" class="value">Star schema data warehouse · SQLite ETL + multi-city anomaly detection alerts</text>
-<text x="22" y="114" font-size="13" font-family="Segoe UI,sans-serif">🗄️</text>
-<text x="42" y="114" class="label" fill="#0f766e">Data Eng</text>
+
+<text x="22" y="114"  font-size="13" font-family="Segoe UI,sans-serif">🗄️</text>
+<text x="42" y="114"  class="label" fill="#8a5cf6">Data Eng</text>
 <text x="150" y="114" class="value">Modular Python collectors · timestamped JSON pipelines + retry logic across 50+ corridors</text>
-<text x="22" y="140" font-size="13" font-family="Segoe UI,sans-serif">📊</text>
-<text x="42" y="140" class="label" fill="#7c3aed">Dashboard</text>
+
+<text x="22" y="140"  font-size="13" font-family="Segoe UI,sans-serif">📊</text>
+<text x="42" y="140"  class="label" fill="#e85cb8">Dashboard</text>
 <text x="150" y="140" class="value">Power BI · city heatmaps + forecast vs actual overlays + cross-city benchmarking panels</text>
-<text x="22" y="166" font-size="13" font-family="Segoe UI,sans-serif">🔧</text>
-<text x="42" y="166" class="label" fill="#b45309">Stack</text>
+
+<text x="22" y="166"  font-size="13" font-family="Segoe UI,sans-serif">🔧</text>
+<text x="42" y="166"  class="label" fill="#c0a8ff">Stack</text>
 <text x="150" y="166" class="value">Python · SQLite · pandas · NumPy · Prophet · SQLAlchemy · Power BI · TomTom API</text>
 </svg>
