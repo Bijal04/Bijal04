@@ -1,36 +1,36 @@
-<svg width="100%" viewBox="0 0 680 290" role="img" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 680 260" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>Bijal Panchal — whoami card</title>
 <desc>Profile card showing Bijal Panchal's education, location, focus areas, and availability</desc>
 <defs>
 <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" style="stop-color:#8a5cf6;stop-opacity:0.15"/>
-  <stop offset="100%" style="stop-color:#e85cb8;stop-opacity:0.08"/>
+  <stop offset="0%" style="stop-color:#7ecb32;stop-opacity:0.15"/>
+  <stop offset="100%" style="stop-color:#a8e063;stop-opacity:0.08"/>
 </linearGradient>
 <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="135%" y2="0%">
-  <stop offset="0%" style="stop-color:#8a5cf6"/>
-  <stop offset="100%" style="stop-color:#e85cb8"/>
+  <stop offset="0%" style="stop-color:#7ecb32"/>
+  <stop offset="100%" style="stop-color:#a8e063"/>
 </linearGradient>
 <style>
-.card-bg  { fill: url(#cardGrad); stroke: rgba(192,168,255,0.18); stroke-width: 1.5; }
+.card-bg  { fill: url(#cardGrad); stroke: rgba(126,203,50,0.18); stroke-width: 1.5; }
 .name     { font-family: Georgia, serif; font-size: 17px; font-weight: 700; fill: #ffffff; font-style: italic; }
-.role     { font-family: monospace; font-size: 11px; fill: #8a5cf6; letter-spacing: 0.08em; }
+.role     { font-family: monospace; font-size: 11px; fill: #7ecb32; letter-spacing: 0.08em; }
 .label    { font-family: monospace; font-size: 11px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
-.value    { font-family: Segoe UI, sans-serif; font-size: 12px; fill: #8a7ac8; }
-.italic   { font-family: Georgia, serif; font-size: 12px; fill: #c0a8ff; font-style: italic; }
-.divider  { stroke: rgba(192,168,255,0.15); stroke-width: 1; }
-.tag-etl  { fill: rgba(138,92,246,0.2); }
-.tag-bi   { fill: rgba(232,92,184,0.15); }
-.tag-rfm  { fill: rgba(192,168,255,0.15); }
-.tag-fc   { fill: rgba(138,92,246,0.12); }
-.tag-etl-text { font-family: monospace; font-size: 10px; fill: #c0a8ff; }
-.tag-bi-text  { font-family: monospace; font-size: 10px; fill: #e85cb8; }
-.tag-rfm-text { font-family: monospace; font-size: 10px; fill: #c0a8ff; }
-.tag-fc-text  { font-family: monospace; font-size: 10px; fill: #8a5cf6; }
+.value    { font-family: Segoe UI, sans-serif; font-size: 12px; fill: #8fbf5c; }
+.italic   { font-family: Georgia, serif; font-size: 12px; fill: #a8e063; font-style: italic; }
+.divider  { stroke: rgba(126,203,50,0.15); stroke-width: 1; }
+.tag-etl  { fill: rgba(126,203,50,0.2); }
+.tag-bi   { fill: rgba(168,224,99,0.15); }
+.tag-rfm  { fill: rgba(143,191,92,0.15); }
+.tag-fc   { fill: rgba(126,203,50,0.12); }
+.tag-etl-text { font-family: monospace; font-size: 10px; fill: #a8e063; }
+.tag-bi-text  { font-family: monospace; font-size: 10px; fill: #a8e063; }
+.tag-rfm-text { font-family: monospace; font-size: 10px; fill: #a8e063; }
+.tag-fc-text  { font-family: monospace; font-size: 10px; fill: #7ecb32; }
 </style>
 </defs>
 
-<rect x="0" y="0" width="680" height="290" rx="14" fill="#0c0820" stroke="rgba(192,168,255,0.12)" stroke-width="1.5"/>
-<rect x="0" y="0" width="680" height="290" rx="14" class="card-bg"/>
+<rect x="0" y="0" width="680" height="260" rx="14" fill="#060f04" stroke="rgba(126,203,50,0.12)" stroke-width="1.5"/>
+<rect x="0" y="0" width="680" height="260" rx="14" class="card-bg"/>
 <!-- top gradient line -->
 <rect x="0" y="0" width="680" height="2" rx="1" fill="url(#avatarGrad)" opacity="0.8"/>
 
@@ -43,35 +43,31 @@
 <line x1="22" y1="84" x2="658" y2="84" class="divider"/>
 
 <text x="22" y="108" font-size="13" font-family="Segoe UI,sans-serif">🎓</text>
-<text x="42" y="108" class="label" fill="#8a5cf6">Education</text>
+<text x="42" y="108" class="label" fill="#a8e063">Education</text>
 <text x="150" y="108" class="value">M.S. Data Analytics · University of Niagara Falls</text>
 
 <text x="22" y="132" font-size="13" font-family="Segoe UI,sans-serif">📍</text>
-<text x="42" y="132" class="label" fill="#e85cb8">Location</text>
+<text x="42" y="132" class="label" fill="#a8e063">Location</text>
 <text x="150" y="132" class="value">Brampton, Ontario CA · Open to Remote Work</text>
 
 <text x="22" y="156" font-size="13" font-family="Segoe UI,sans-serif">🎯</text>
-<text x="42" y="156" class="label" fill="#c0a8ff">Focus</text>
-<rect x="150" y="144" width="34" height="18" rx="4" class="tag-etl" stroke="rgba(138,92,246,0.3)" stroke-width="1"/>
+<text x="42" y="156" class="label" fill="#a8e063">Focus</text>
+<rect x="150" y="144" width="34" height="18" rx="4" class="tag-etl" stroke="rgba(126,203,50,0.3)" stroke-width="1"/>
 <text x="167" y="157" class="tag-etl-text" text-anchor="middle">ETL</text>
-<rect x="190" y="144" width="26" height="18" rx="4" class="tag-bi" stroke="rgba(232,92,184,0.3)" stroke-width="1"/>
+<rect x="190" y="144" width="26" height="18" rx="4" class="tag-bi" stroke="rgba(168,224,99,0.3)" stroke-width="1"/>
 <text x="203" y="157" class="tag-bi-text" text-anchor="middle">BI</text>
-<rect x="222" y="144" width="38" height="18" rx="4" class="tag-rfm" stroke="rgba(192,168,255,0.2)" stroke-width="1"/>
+<rect x="222" y="144" width="38" height="18" rx="4" class="tag-rfm" stroke="rgba(143,191,92,0.2)" stroke-width="1"/>
 <text x="241" y="157" class="tag-rfm-text" text-anchor="middle">RFM</text>
-<rect x="266" y="144" width="100" height="18" rx="4" class="tag-fc" stroke="rgba(138,92,246,0.2)" stroke-width="1"/>
+<rect x="266" y="144" width="100" height="18" rx="4" class="tag-fc" stroke="rgba(126,203,50,0.2)" stroke-width="1"/>
 <text x="316" y="157" class="tag-fc-text" text-anchor="middle">Forecasting</text>
 
-<text x="22" y="184" font-size="13" font-family="Segoe UI,sans-serif">⚡</text>
-<text x="42" y="184" class="label" fill="#c0a8ff">Currently</text>
-<text x="150" y="184" class="value">City Stress Index · multi-source ETL + Prophet time-series forecasting</text>
+<text x="22" y="184" font-size="13" font-family="Segoe UI,sans-serif">✅</text>
+<text x="42" y="184" class="label" fill="#a8e063">Available</text>
+<text x="150" y="184" class="value">Open to DA | DS Roles</text>
 
-<text x="22" y="208" font-size="13" font-family="Segoe UI,sans-serif">✅</text>
-<text x="42" y="208" class="label" fill="#8a5cf6">Available</text>
-<text x="150" y="208" class="value">Open to DA | DS Roles</text>
+<line x1="22" y1="200" x2="658" y2="200" class="divider"/>
 
-<line x1="22" y1="224" x2="658" y2="224" class="divider"/>
-
-<text x="22" y="254" font-size="13" font-family="Segoe UI,sans-serif">💬</text>
-<text x="42" y="254" class="label" fill="#e85cb8">Philosophy</text>
-<text x="150" y="254" class="italic">"Data without decisions is just noise."</text>
+<text x="22" y="230" font-size="13" font-family="Segoe UI,sans-serif">💬</text>
+<text x="42" y="230" class="label" fill="#a8e063">Philosophy</text>
+<text x="150" y="230" class="italic">"Data without decisions is just noise."</text>
 </svg>
