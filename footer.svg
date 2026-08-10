@@ -133,7 +133,7 @@
 <rect x="258" y="166" width="134" height="3" fill="#7ecb32" opacity="0.2" rx="1" class="scan"/>
 <!-- code text -->
 <text x="266" y="178" font-size="7" fill="#a8e063" opacity="0.6" font-family="monospace">BIJAL_DA &gt; pipeline.run()</text>
-<text x="266" y="188" font-size="7" fill="#7ecb32" opacity="0.5" font-family="monospace">✓ ETL loaded  1,024,318 rows</text>
+<text x="266" y="188" font-size="7" fill="#7ecb32" opacity="0.5" font-family="monospace">check ETL loaded 1,024,318 rows</text>
 <!-- cursor blink -->
 <rect x="266" y="190" width="5" height="7" fill="#a8e063" opacity="0.7" class="blink"/>
 <!-- stand -->
