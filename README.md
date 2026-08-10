@@ -221,8 +221,8 @@ MAPE (target)
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijal04&theme=tokyonight" width="36%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijal04&theme=tokyonight&utcOffset=-5" width="36%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijal04&theme=github_dark&bg_color=060f04&title_color=7ecb32&text_color=8fbf5c&icon_color=a8e063&border_color=16220f&chart_color=7ecb32" width="36%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijal04&theme=github_dark&utcOffset=-5&bg_color=060f04&title_color=7ecb32&text_color=8fbf5c&icon_color=a8e063&border_color=16220f&chart_color=7ecb32" width="36%" />
 
 </div>
 
