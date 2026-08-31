@@ -237,15 +237,6 @@ MAPE (target)
 </div>
 
 ---
-## 🔥 Currently Working On
-
-<div align="center">
-
-![currently](https://raw.githubusercontent.com/Bijal04/Bijal04/main/currently.svg)
-
-</div>
-
----
 
 <div align="center">
   <img src="./footer.svg" width="100%"/>
